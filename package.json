@@ -29,7 +29,7 @@
     "hexo-server": "^0.2.0",
     "hexo-wordcount": "^3.0.2",
     "jstransformer": "^1.0.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "social-share.js": "^1.0.16"
   }
 }
